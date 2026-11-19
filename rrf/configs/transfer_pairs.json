@@ -1,0 +1,194 @@
+[
+  {
+    "source": "double_lift_cloth_1",
+    "target": "single_clift_cloth_1"
+  },
+  {
+    "source": "double_lift_cloth_1",
+    "target": "single_lift_cloth_1"
+  },
+  {
+    "source": "single_clift_cloth_1",
+    "target": "double_lift_cloth_1"
+  },
+  {
+    "source": "single_clift_cloth_1",
+    "target": "single_lift_cloth_1"
+  },
+  {
+    "source": "single_lift_cloth_1",
+    "target": "double_lift_cloth_1"
+  },
+  {
+    "source": "single_lift_cloth_1",
+    "target": "single_clift_cloth_1"
+  },
+  {
+    "source": "double_lift_cloth_3",
+    "target": "single_clift_cloth_3"
+  },
+  {
+    "source": "double_lift_cloth_3",
+    "target": "single_lift_cloth_3"
+  },
+  {
+    "source": "single_clift_cloth_3",
+    "target": "double_lift_cloth_3"
+  },
+  {
+    "source": "single_clift_cloth_3",
+    "target": "single_lift_cloth_3"
+  },
+  {
+    "source": "single_lift_cloth_3",
+    "target": "double_lift_cloth_3"
+  },
+  {
+    "source": "single_lift_cloth_3",
+    "target": "single_clift_cloth_3"
+  },
+  {
+    "source": "double_lift_sloth",
+    "target": "double_stretch_sloth"
+  },
+  {
+    "source": "double_lift_sloth",
+    "target": "single_lift_sloth"
+  },
+  {
+    "source": "double_lift_sloth",
+    "target": "single_push_sloth"
+  },
+  {
+    "source": "double_stretch_sloth",
+    "target": "double_lift_sloth"
+  },
+  {
+    "source": "double_stretch_sloth",
+    "target": "single_lift_sloth"
+  },
+  {
+    "source": "double_stretch_sloth",
+    "target": "single_push_sloth"
+  },
+  {
+    "source": "single_lift_sloth",
+    "target": "double_lift_sloth"
+  },
+  {
+    "source": "single_lift_sloth",
+    "target": "double_stretch_sloth"
+  },
+  {
+    "source": "single_lift_sloth",
+    "target": "single_push_sloth"
+  },
+  {
+    "source": "single_push_sloth",
+    "target": "double_lift_sloth"
+  },
+  {
+    "source": "single_push_sloth",
+    "target": "double_stretch_sloth"
+  },
+  {
+    "source": "single_push_sloth",
+    "target": "single_lift_sloth"
+  },
+  {
+    "source": "rope_double_hand",
+    "target": "single_lift_rope"
+  },
+  {
+    "source": "rope_double_hand",
+    "target": "single_push_rope"
+  },
+  {
+    "source": "single_lift_rope",
+    "target": "rope_double_hand"
+  },
+  {
+    "source": "single_lift_rope",
+    "target": "single_push_rope"
+  },
+  {
+    "source": "single_push_rope",
+    "target": "rope_double_hand"
+  },
+  {
+    "source": "single_push_rope",
+    "target": "single_lift_rope"
+  },
+  {
+    "source": "single_push_rope",
+    "target": "single_push_rope_1"
+  },
+  {
+    "source": "single_push_rope",
+    "target": "single_push_rope_4"
+  },
+  {
+    "source": "single_push_rope_1",
+    "target": "single_push_rope"
+  },
+  {
+    "source": "single_push_rope_1",
+    "target": "single_push_rope_4"
+  },
+  {
+    "source": "single_push_rope_4",
+    "target": "single_push_rope"
+  },
+  {
+    "source": "single_push_rope_4",
+    "target": "single_push_rope_1"
+  },
+  {
+    "source": "single_lift_cloth_1",
+    "target": "single_lift_cloth_3"
+  },
+  {
+    "source": "single_lift_cloth_1",
+    "target": "single_lift_cloth_4"
+  },
+  {
+    "source": "single_lift_cloth_3",
+    "target": "single_lift_cloth_1"
+  },
+  {
+    "source": "single_lift_cloth_3",
+    "target": "single_lift_cloth_4"
+  },
+  {
+    "source": "single_lift_cloth_4",
+    "target": "single_lift_cloth_1"
+  },
+  {
+    "source": "single_lift_cloth_4",
+    "target": "single_lift_cloth_3"
+  },
+  {
+    "source": "double_lift_cloth_3",
+    "target": "double_lift_cloth_1"
+  },
+  {
+    "source": "double_lift_cloth_1",
+    "target": "double_lift_cloth_3"
+  },
+  {
+    "source": "single_clift_cloth_1",
+    "target": "single_clift_cloth_3"
+  },
+  {
+    "source": "single_clift_cloth_3",
+    "target": "single_clift_cloth_1"
+  },
+  {
+    "source": "double_lift_zebra",
+    "target": "double_stretch_zebra"
+  },
+  {
+    "source": "double_stretch_zebra",
+    "target": "double_lift_zebra"
+  }
+]

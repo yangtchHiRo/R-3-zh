@@ -1,0 +1,10 @@
+[
+  {
+    "name": "custom_cloth",
+    "kind": "scene",
+    "source": "main",
+    "train": ["double_lift_cloth_1", "double_lift_cloth_3"],
+    "validation": [],
+    "test": ["single_lift_cloth_4"]
+  }
+]

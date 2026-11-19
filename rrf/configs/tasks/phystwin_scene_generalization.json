@@ -1,0 +1,7 @@
+{
+  "extends": "phystwin_scene.json",
+  "task_name": "phystwin_scene_generalization",
+  "evaluation": {
+    "report_partition": "test"
+  }
+}

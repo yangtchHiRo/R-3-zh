@@ -1,0 +1,9 @@
+{
+  "double_lift_cloth_3": "/absolute/path/to/runs/double_lift_cloth_3",
+  "double_lift_sloth": "/absolute/path/to/runs/double_lift_sloth",
+  "double_stretch_sloth": "/absolute/path/to/runs/double_stretch_sloth",
+  "single_clift_cloth_3": "/absolute/path/to/runs/single_clift_cloth_3",
+  "single_lift_cloth_1": "/absolute/path/to/runs/single_lift_cloth_1",
+  "single_lift_cloth_4": "/absolute/path/to/runs/single_lift_cloth_4",
+  "double_stretch_zebra": "/absolute/path/to/runs/double_stretch_zebra"
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "source": "double_lift_cloth_3",
+    "target": "double_lift_cloth_1"
+  },
+  {
+    "source": "double_lift_cloth_3",
+    "target": "single_clift_cloth_3"
+  },
+  {
+    "source": "double_lift_sloth",
+    "target": "single_lift_sloth"
+  },
+  {
+    "source": "double_stretch_sloth",
+    "target": "double_lift_sloth"
+  },
+  {
+    "source": "single_clift_cloth_3",
+    "target": "single_clift_cloth_1"
+  },
+  {
+    "source": "single_lift_cloth_1",
+    "target": "single_lift_cloth_4"
+  },
+  {
+    "source": "single_lift_cloth_4",
+    "target": "single_lift_cloth_3"
+  },
+  {
+    "source": "double_stretch_zebra",
+    "target": "double_lift_zebra"
+  }
+]

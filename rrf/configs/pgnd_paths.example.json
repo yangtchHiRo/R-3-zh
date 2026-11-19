@@ -1,0 +1,8 @@
+{
+  "rope": {"raw_source": "/absolute/path/to/rope_merged/sub_episodes_v", "native_state": "/absolute/path/to/rope_native/state"},
+  "bread": {"raw_source": "/absolute/path/to/bread_merged/sub_episodes_v", "native_state": "/absolute/path/to/bread_native/state"},
+  "sloth": {"raw_source": "/absolute/path/to/sloth_merged/sub_episodes_v", "native_state": "/absolute/path/to/sloth_native/state"},
+  "box": {"raw_source": "/absolute/path/to/box_merged/sub_episodes_v", "native_state": "/absolute/path/to/box_native/state"},
+  "cloth": {"raw_source": "/absolute/path/to/cloth_merged/sub_episodes_v", "native_state": "/absolute/path/to/cloth_native/state"},
+  "paperbag": {"raw_source": "/absolute/path/to/paperbag_merged/sub_episodes_v", "native_state": "/absolute/path/to/paperbag_native/state"}
+}

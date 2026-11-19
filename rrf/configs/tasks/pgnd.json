@@ -1,0 +1,13 @@
+{
+  "extends": "../base.json",
+  "task_name": "pgnd",
+  "dataset": "pgnd",
+  "train": {
+    "steps": 100000,
+    "checkpoint_interval": 10000,
+    "resume_interval": 1000
+  },
+  "evaluation": {
+    "report_partition": "test"
+  }
+}

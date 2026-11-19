@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "task_name": "base",
+  "dataset": "phystwin",
+  "seed": 0,
+  "model": {
+    "history": 3,
+    "regions": 64,
+    "candidates": 8,
+    "coarse_loss_weight": 0.1
+  },
+  "data": {
+    "horizon": 5,
+    "batch_size": 2,
+    "frame_cache_size": 256,
+    "continue_probability": 0.5
+  },
+  "train": {
+    "steps": 20000,
+    "loss_scale": 100.0,
+    "grad_clip": 1.0,
+    "checkpoint_interval": 500,
+    "resume_interval": 500,
+    "log_interval": 100
+  },
+  "optimizer": {
+    "name": "adam",
+    "lr": 0.0001,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-08,
+    "weight_decay": 0.0
+  },
+  "scheduler": {
+    "name": "exponential",
+    "min_lr": 1e-06,
+    "decay_steps": 5000000,
+    "decay_rate": 0.1
+  },
+  "evaluation": {
+    "report_partition": "all"
+  }
+}

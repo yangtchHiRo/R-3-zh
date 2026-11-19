@@ -1,0 +1,7 @@
+{
+  "extends": "../base.json",
+  "task_name": "phystwin_scene",
+  "data": {
+    "horizon": 5
+  }
+}
